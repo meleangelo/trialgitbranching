@@ -1,6 +1,6 @@
 # trialgitbranching
 
-a few notes on git workflow
+a few notes on git workflow, for fun
 
 # fork repo
 to fork a repo just write
