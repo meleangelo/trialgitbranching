@@ -29,3 +29,13 @@ git commit -a -m "message for commit"
 git push origin feature/angelo/branchtest
 ```
 
+# to check log of changes done in branch and master
+
+``` 
+git log --oneline --decorate
+```
+
+or with graph
+``` 
+git log --oneline --decorate --graph --all
+```
